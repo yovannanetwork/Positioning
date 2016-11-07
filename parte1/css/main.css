@@ -1,1 +1,23 @@
 /* Pon tu código css aqui */
+body{
+    margin: 0;
+    padding: 0;
+}
+.rosado{
+    width: 200px;
+    height: 200px;
+    background: #ee3e64;
+    position: static;
+}
+.celeste{
+    width: 200px;
+    height: 200px;
+    background: #44accf;
+    position: static;
+}
+.verde{
+    width: 200px;
+    height: 200px;
+    background: #b7d84b;
+    position: static;
+}

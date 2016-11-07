@@ -1,1 +1,26 @@
 /* Pon tu código css aqui */
+body{
+    margin: 0;
+    padding: 0;
+}
+.rosado{
+    width: 200px;
+    height: 200px;
+    background: #ee3e64;
+    position: relative;
+}
+.celeste{
+    width: 200px;
+    height: 200px;
+    background: #44accf;
+    position: relative;
+    left: 200px;
+    bottom: 200px;
+}
+.verde{
+    width: 200px;
+    height: 200px;
+    background: #b7d84b;
+    position: relative;
+    bottom: 200px;
+}

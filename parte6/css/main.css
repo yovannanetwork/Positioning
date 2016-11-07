@@ -1,1 +1,31 @@
 /* Pon tu código css aqui */
+body{
+    margin: 0;
+    padding: 0;
+}
+.rosado{
+    width: 200px;
+    height: 200px;
+    background: #ee3e64;
+    position: relative;
+}
+.verde{
+    width: 200px;
+    height: 200px;
+    background: #b7d64b;
+    position: relative;
+    
+}
+.celeste{
+    width: 200px;
+    height: 200px;
+    background: #44accf;
+    position: absolute;
+    left: 200px;
+}
+.amarillo{
+    width: 200px;
+    height: 200px;
+    background: yellow;
+    position: relative;
+}
